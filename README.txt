@@ -1,0 +1,1 @@
+All projects are developed in eclipse and compiled in eclipse easily
