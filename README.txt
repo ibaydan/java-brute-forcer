@@ -1,1 +1,1 @@
-All projects are developed in eclipse and compiled in eclipse easily
+Java application written for aes encrypted file brute force. There is 3 working examples and one of them is a key's a half is known and brute forced regularly for other half. By the way we know that brute forced file have some thing meaning full text data.
